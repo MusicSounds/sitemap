@@ -6,7 +6,7 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>https://musicsounds.cf/</loc>
+  <loc>https://musicsounds.cf</loc>
   <lastmod>2021-05-23T06:26:46+00:00</lastmod>
   <priority>1.00</priority>
 </url>
@@ -16,12 +16,12 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://links.musicsounds.cf/</loc>
+  <loc>https://links.musicsounds.cf</loc>
   <lastmod>2021-05-23T06:26:46+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://discord.musicsounds.cf/</loc>
+  <loc>https://discord.musicsounds.cf</loc>
   <lastmod>2021-05-23T06:26:46+00:00</lastmod>
   <priority>0.50</priority>
 </url>
